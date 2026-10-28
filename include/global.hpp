@@ -11,7 +11,7 @@ struct scr_dim{
 struct ui_layout{
 	Rectangle txtinput_bnds = {0, 0, 0, 0};
 	Rectangle listview_bnds = {0, 0, 0, 0};
-	Rectangle button_bnds = {0, 0, 0, 0};
+	Rectangle button_bnds = {0, 0, 0 ,0};
 	int stack_index = 0;
 };
 

@@ -1,8 +1,7 @@
-#include "global.hpp"
-#include "tasks.hpp"
-#include "date.hpp"
+#include "include/global.hpp"
+#include "include/tasks.hpp"
+#include "include/date.hpp"
 #include <fstream>
-#include <iostream>
 #include <vector>
 #include <string>
 #include <sstream>

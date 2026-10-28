@@ -1,6 +1,6 @@
 CloseProgram gracefully
 DateTime datastructure
-Popup Window for Specific Task Management 
 Improve Tasks - (Add priority, datetime logging, persistence)
 Audio
 https://github.com/gimploo/poglib/blob/dev/basic/arena.h
+Implement popup features
